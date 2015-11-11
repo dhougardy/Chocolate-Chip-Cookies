@@ -22,10 +22,12 @@ Awesome Chocolate Chip Cookie recipe from [Martha Stewart]("http://www.marthaste
 
 
 ##Dry Ingredients
-- 2 1/4 cups all-purpose flour
+- 1 1/4 cups all-purpose flour
 - 1/2 teaspoon baking soda
 - 2 cups (about 12 ounces) semisweet and/or milk chocolate chips
-
+- 2 cups raisins
+- 1 bag peanut butter m&m's
+- 1 cup of oatmeal
 
 ##Cooking Directions
 - Preheat oven to 350 degrees.
